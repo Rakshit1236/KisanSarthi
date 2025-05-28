@@ -34,10 +34,14 @@ npm install
 npm run dev
 
 ```
+##Collaboration
 
 <a href="https://github.com/Rakshit1236">
   <img src="https://github.com/Rakshit1236.png" width="50" height="50">
 </a>
+
+
+
 <a href="https://github.com/Sneha25-bit">
   <img src="https://github.com/Sneha25-bit.png" width="50" height="50">
 </a>

@@ -39,16 +39,16 @@ npm run dev
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <div>
-      <a href="https://github.com/username1">
-        <img src="https://github.com/username1.png" width="80" height="80" alt="User1">
+      <a href="https://github.com/Rakshit1236">
+        <img src="https://github.com/Rakshiit1236.png" width="80" height="80" alt="User1">
       </a>
-      <p align="center"><a href="https://github.com/username1">@username1</a></p>
+      <p align="center"><a href="https://github.com/Rakshit1236">@Rakshit1236</a></p>
     </div>
     <div>
-      <a href="https://github.com/username2">
-        <img src="https://github.com/username2.png" width="80" height="80" alt="User2">
+      <a href="https://github.com/Sneha25-bit">
+        <img src="https://github.com/Sneha25-bit.png" width="80" height="80" alt="User2">
       </a>
-      <p align="center"><a href="https://github.com/username2">@username2</a></p>
+      <p align="center"><a href="https://github.com/Sneha25-bit">@Sneha25-bit</a></p>
     </div>
   </div>
 </div>

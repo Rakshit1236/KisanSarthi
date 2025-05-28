@@ -35,21 +35,24 @@ npm run dev
 
 ```
 ## 🤝 Collaboration  
+ 
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div>
-      <a href="https://github.com/Rakshit1236">
-        <img src="https://github.com/Rakshit1236.png" width="80" height="80" alt="User1">
-      </a>
-      <p align="center"><a href="https://github.com/Rakshit1236">@Rakshit1236</a></p>
-    </div>
-    <div>
-      <a href="https://github.com/Sneha25-bit">
-        <img src="https://github.com/Sneha25-bit.png" width="80" height="80" alt="User2">
-      </a>
-      <p align="center"><a href="https://github.com/Sneha25-bit">@Sneha25-bit</a></p>
-    </div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <div>
+    <a href="https://github.com/Rakshit1236">
+      <img src="https://github.com/Rakshit1236.png" width="80" height="80" alt="Rakshit's GitHub" style="border-radius: 50%;">
+    </a>
+    <p align="center">
+      <a href="https://github.com/Rakshit1236" style="text-decoration: none; color: #0366d6;">@Rakshit1236</a>
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/Sneha25-bit">
+      <img src="https://github.com/Sneha25-bit.png" width="80" height="80" alt="Sneha's GitHub" style="border-radius: 50%;">
+    </a>
+    <p align="center">
+      <a href="https://github.com/Sneha25-bit" style="text-decoration: none; color: #0366d6;">@Sneha25-bit</a>
+    </p>
   </div>
 </div>
-</a>

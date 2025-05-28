@@ -40,7 +40,7 @@ npm run dev
   <div style="display: flex; justify-content: center; gap: 20px;">
     <div>
       <a href="https://github.com/Rakshit1236">
-        <img src="https://github.com/Rakshiit1236.png" width="80" height="80" alt="User1">
+        <img src="https://github.com/Rakshit1236.png" width="80" height="80" alt="User1">
       </a>
       <p align="center"><a href="https://github.com/Rakshit1236">@Rakshit1236</a></p>
     </div>

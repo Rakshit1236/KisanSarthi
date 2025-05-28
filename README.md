@@ -1,6 +1,6 @@
 # KisanSarthi 🌾
 
-**Live Demo:** https://kisansarthi.vercel.app
+**Live Demo:** https://kisansarthi-omega.vercel.app
 
 KisanSarthi is a smart, accessible, and user-friendly platform built to empower Indian farmers with real-time data-driven insights. Whether it's market price predictions, crop advisory, or simplified access to mandi rates, KisanSarthi aims to bridge the information gap in agriculture using technology.
 
